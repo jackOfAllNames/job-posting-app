@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.humanize',
     'job_board',
+    'test_app',
 ]
 
 MIDDLEWARE = [
